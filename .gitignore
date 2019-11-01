@@ -1,0 +1,8 @@
+_DS_Store
+.DS_Store
+*.log
+*.aux
+*.gz
+*.toc
+*.pdf
+scratch
